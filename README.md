@@ -5,6 +5,7 @@
 Conditional formatting helps turn raw numbers into clear insights. It’s like giving data a voice—highlighting what matters most at a glance.
 
 In this mini project, I used Excel to apply different conditional formatting techniques to make trends and issues easier to spot.
+
 This is a great way to bring attention to performance highs, potential risks, and areas that need improvement—without writing a single formula.
 
 ## PROJECT OBJECTIVE  
